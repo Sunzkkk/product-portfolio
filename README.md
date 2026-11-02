@@ -2,6 +2,10 @@
 
 围绕海外售后远程诊断业务整理的案例文档与交互原型。
 
+## 在线预览
+
+[打开产品作品集](https://sunzkkk.github.io/product-portfolio/) · [直接体验诊断工作台](https://sunzkkk.github.io/product-portfolio/prototype/index.html)
+
 ## 内容导航
 
 - [阅读项目案例 PDF](case-studies/overseas-service-platform.pdf)
